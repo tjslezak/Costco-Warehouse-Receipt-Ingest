@@ -1,0 +1,2 @@
+# Costco-Warehouse-Receipt-Ingest
+I do the vast majority of my shopping at Costco and recently noticed that Costco now allows you to view your in-warehouse purchases online. This module scrapes your receipts and ingests the data into a db. This will allow me to simultaneously analyze my own spending habits and track price inflation of items I routinely purchase. Use this software at your own risk. Long live open source.
